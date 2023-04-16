@@ -9,8 +9,7 @@ In this paper, we propose XG-BoT, an explainable deep graph neural network model
 ## Prerequisites
 
 - [Pytorch](http://pytorch.org/)
-- [DGL](https://www.dgl.ai/)
-- [PyoD](https://pyod.readthedocs.io/en/latest/)
+- [PyG](https://pytorch-geometric.readthedocs.io/en/latest/)
 
 
 ### If you think this work is helpful, please cite
